@@ -70,7 +70,7 @@ table{width:100%;border-collapse:collapse;margin-top:10px}th,td{border:1px solid
 .badge{padding:4px 8px;border-radius:20px;font-size:12px;color:white}
 .Pending{background:#ff9800}.Approved{background:#1a9e4b}.Rejected{background:#d32f2f}.For\\ Compliance{background:#7b1fa2}
 </style></head><body>
-<div class='header'><h1>🎓 NORTHWESTERN VISAYAN COLLEGES</h1><p>E-Clearance System - Bacolod City</p></div>
+<div class='header'><h1>🎓 NORTHWESTERN VISAYAN COLLEGES</h1><p>E-Clearance System - Kalibo, Aklan</p></div>
 """
 
 FOOT = "</body></html>"
